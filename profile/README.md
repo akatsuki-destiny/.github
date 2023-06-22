@@ -1,5 +1,7 @@
 # AKATSUKI DESTINY
 
+![](https://repository-images.githubusercontent.com/633398717/42c368cf-2c3d-44e7-803b-ec023a315bf3)
+
 <!--
 
 **Here are some ideas to get you started:**
