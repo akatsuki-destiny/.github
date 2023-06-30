@@ -1,13 +1,11 @@
 
 
 # PROJECT ZERO
-- ### [docker-compose-env](https://github.com/akatsuki-destiny/docker-compose-env)
-- ### [userservice](https://github.com/akatsuki-destiny/userservice)
-- ### [cronitor](https://github.com/akatsuki-destiny/cronitor)
-- ### [mailerservice](https://github.com/akatsuki-destiny/mailerservice)
 
-  
- [![DOCKER COMPOSE ENV](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=docker-compose-env&theme=tokyonight)](https://github.com/akatsuki-destiny/docker-compose-env)
+[![DOCKER COMPOSE ENV](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=docker-compose-env&theme=tokyonight)](https://github.com/akatsuki-destiny/docker-compose-env)
+[![USER SERVICE](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=userservice&theme=tokyonight)](https://github.com/akatsuki-destiny/userservice)
+[![CRONITOR](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=cronitor&theme=tokyonight)](https://github.com/akatsuki-destiny/cronitor)
+[![MAILER SERVICE](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=mailerservice&theme=tokyonight)](https://github.com/akatsuki-destiny/mailerservice)
 
 
 # PROJECT_ZERO
