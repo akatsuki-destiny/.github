@@ -7,7 +7,7 @@
 - ### [mailerservice](https://github.com/akatsuki-destiny/mailerservice)
 
   
- [![DOCKER COMPOSE ENV](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=docker-compose-env)](https://github.com/akatsuki-destiny/docker-compose-env)
+ [![DOCKER COMPOSE ENV](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=docker-compose-env&theme=tokyonight)](https://github.com/akatsuki-destiny/docker-compose-env)
 
 
 # PROJECT_ZERO
