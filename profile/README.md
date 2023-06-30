@@ -9,6 +9,8 @@
 
 # PROJECT_ZERO
 
+## [BOARD](https://github.com/orgs/akatsuki-destiny/projects/1)
+
 ## Konu: E-Ticaret Projesi 
 
 - Bu proje için microservis yapısını kullanacaktır.
