@@ -11,7 +11,6 @@
 
 ## [BOARD](https://github.com/orgs/akatsuki-destiny/projects/1)
 
-![](https://github.com/akatsuki-destiny/.github/blob/main/Screenshot%202023-07-11%20at%2013.43.33.png)
 
 
 
