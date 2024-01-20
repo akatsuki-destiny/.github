@@ -9,7 +9,7 @@
 [![LOGGER SERVICE](https://github-readme-stats.vercel.app/api/pin/?username=akatsuki-destiny&repo=loggerservice&theme=tokyonight)](https://github.com/akatsuki-destiny/loggerservice)
 -->
 
-## [BOARD](https://github.com/orgs/akatsuki-destiny/projects/1)
+## [BOARD](https://github.com/orgs/akatsuki-destiny/projects/2)
 
 
 
